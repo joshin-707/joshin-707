@@ -5,7 +5,7 @@
 💞️ I’m looking to collaborate on ...
 "...full-stack web applications, open-source projects,, developer tools, and platforms that solve real-world problems."
 
-- 📫 How to reach me Email:10241.joshin@gmail.com...
+- 📫 How to reach me Email:10241.joshin@gmail.com
 
   
 
