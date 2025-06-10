@@ -1,11 +1,67 @@
-- 👋 Hi, I’m Sahaya Gosper Joshin
-- 👀 I’m interested in Coding ...
-- 🌱 I’m currently learning BSC Computer Science ...
-- 
-💞️ I’m looking to collaborate on ...
-"...full-stack web applications, open-source projects,, developer tools, and platforms that solve real-world problems."
+# 💻 Hey there! I'm Sahaya Gosper Joshin 👋
 
-- 📫 How to reach me Email:10241.joshin@gmail.com
+🎓 I'm currently a **3rd year BSc Computer Science** student with a passion for **full-stack development**, open-source, and building real-world applications that solve problems.
+
+---
+
+## 🛠️ Skills & Technologies
+
+**Languages**  
+`JavaScript` `TypeScript` `Python` `C++` `Java` `HTML` `CSS`
+
+**Frontend**  
+`React.js` `Next.js` `Bootstrap` `Tailwind CSS`
+
+**Backend**  
+`Node.js` `Express.js` `MongoDB` `Firebase` `MySQL`
+
+**Tools & Platforms**  
+`Git & GitHub` `VS Code` `Postman` `Linux` `Netlify` `Vercel`
+
+---
+
+## 💞️ I’m looking to collaborate on...
+
+- Full-stack web applications (MERN / MEAN stack)
+- Open-source projects that need frontend/backend help
+- Student/community-driven coding projects and hackathons
+- Projects that help people learn or improve their productivity
+
+---
+
+## 📚 Currently Learning
+
+- Advanced backend concepts (authentication, deployment, APIs)
+- DevOps basics (CI/CD, Docker)
+- TypeScript and performance optimization
+- System design principles
+
+---
+
+## 🌱 Goals for 2025
+
+- Contribute to at least 5 open-source projects
+- Build & deploy 3 full-stack apps
+- Intern at a tech company or work on a freelance project
+- Learn cloud basics (AWS / GCP / Azure)
+
+---
+
+## 📫 How to reach me
+
+- Email: [10241.joshin@gmail.com]
+- 
+
+---
+
+## ⚡ Fun fact
+
+> I believe in "learning by building" – the best way to grow as a developer is to **keep solving real problems with code** 🚀
+
+---
+
+⭐️ Feel free to check out my repositories, and if you're working on something cool, let's connect and collaborate!
+
 
   
 
