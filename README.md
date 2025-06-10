@@ -36,17 +36,6 @@
 - TypeScript and performance optimization
 - System design principles
 
----
-
-## 🌱 Goals for 2025
-
-- Contribute to at least 5 open-source projects
-- Build & deploy 3 full-stack apps
-- Intern at a tech company or work on a freelance project
-- Learn cloud basics (AWS / GCP / Azure)
-
----
-
 ## 📫 How to reach me
 
 - Email: [10241.joshin@gmail.com]
